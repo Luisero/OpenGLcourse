@@ -1,0 +1,3 @@
+/home/fernanda/Programming/opengl/aula1/build/CMakeFiles/my_opengl_project.dir
+/home/fernanda/Programming/opengl/aula1/build/CMakeFiles/edit_cache.dir
+/home/fernanda/Programming/opengl/aula1/build/CMakeFiles/rebuild_cache.dir
